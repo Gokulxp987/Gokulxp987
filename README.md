@@ -4,7 +4,7 @@ I'm a recent graduate with a passion for software development and a drive to mak
 
 ## 🚀 Quick Overview
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="320" height="250" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 I’m currently exploring various opportunities to apply my skills and knowledge in real-world projects.
 - 🌱 I’m eager to continue learning and enhancing my expertise in software development.
