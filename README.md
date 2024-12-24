@@ -1,6 +1,6 @@
 # Hi there, I'm Gokul K! 👋
 
-I'm a recent graduate with a passion for software development and a drive to make a difference through technology.
+I'm a recent graduate and a drive to make a difference through technology.
 
 ## 🚀 Quick Overview
 
